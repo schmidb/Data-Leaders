@@ -10,10 +10,10 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 ## Data Leadership
 
-| Name                | Topics                                                   | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> |
+| Name                | Topics                                                   | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |---------------------|----------------------------------------------------------|--------------------------|
-| Jordan Morrow       | data storytelling, data literacy, data-driven strategies | [Jordan Morrow](https://www.linkedin.com/in/jordanmorrow/){:target="_blank"} (35k+)     |
-| Markus Schmidberger | authentic data leadership and strategy                   | [Markus Schmidberger](https://www.linkedin.com/in/schmidberger/){:target="_blank"} (10k+)     |
+| Jordan Morrow       | data storytelling, data literacy, data-driven strategies | [Jordan Morrow](https://www.linkedin.com/in/jordanmorrow/) (35k+)     |
+| Markus Schmidberger | authentic data leadership and strategy                   | [Markus Schmidberger](https://www.linkedin.com/in/schmidberger/) (10k+)     |
 
 
 
@@ -22,9 +22,9 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 ## Data Analytics
 
 ## Data Engineering
-| Name        | Topics                                             | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="50" height="50"/> |
+| Name        | Topics                                             | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |-------------|----------------------------------------------------|--------------------------------|
-| Zach Wilson | everything to improve your Data Engineering skills | [Zach Wilson](https://www.linkedin.com/in/eczachly){:target="_blank"} (445k+)     |
+| Zach Wilson | everything to improve your Data Engineering skills | [Zach Wilson](https://www.linkedin.com/in/eczachly) (445k+)     |
 
 ## Data Science
 
