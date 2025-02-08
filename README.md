@@ -4,20 +4,20 @@ For now, this repo lists amazing Data Leaders on Social Media.
 
 We need more inspiring data leaders to create more business value out of data.
 
-Following these people will support and accelerate you to become an amzing data leader as well!
+Following these people will support and accelerate you to become an amazing data leader as well!
 
 Data Leaders on this list have more than 10.000 followers on any social media platform and are grouped by data discipline.
 
 ## Data Leadership
 
 | Name                | Topics                   | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
-|---------------------------|----------------------------------------------------------|-------------------------- -------------------------------------------------------------|
-| Christina Stathopoulos    | data & AI evangelisation, connect data & business        | [Christina Stathopoulos](https://www.linkedin.com/in/christinastathopoulos) (90k+)     |
+|---------------------------|----------------------------------------------------------|---------------------------------------------------|
+| Christina Stathopoulos    | data & AI evangelization, connect data & business        | [Christina Stathopoulos](https://www.linkedin.com/in/christinastathopoulos) (90k+)     |
 | Randy Bean                | data-driven leadership & strategy, mainly for Forbes     | [Randy Bean](https://www.linkedin.com/in/randybeannvp/) (21k+)                         |
-| Jonas Rashedi             | in GERMAN, all about being a successfull data leader     | [Jonas Rashedi](https://www.linkedin.com/in/jonasrashedi/) (17k+)                      |
+| Jonas Rashedi             | in GERMAN, all about being a successful data leader     | [Jonas Rashedi](https://www.linkedin.com/in/jonasrashedi/) (17k+)                      |
 | Sebastian Hewing          | creating business impact with data and data foundation   | [Sebastian Hewing](https://www.linkedin.com/in/sebastianhewing/) (13k+)                |
 | Taylor Culver             | productivity and impact of data leaders                  | [Taylor Culver](https://www.linkedin.com/in/taylorculver/) (10k+)                      |
-| Tris J Burns              | data leadership and data career developmen               | [Tris J Burns](https://www.linkedin.com/in/tristanjburns/) (10k+)                      |
+| Tris J Burns              | data leadership and data career development               | [Tris J Burns](https://www.linkedin.com/in/tristanjburns/) (10k+)                      |
 | Markus Schmidberger       | authentic data leadership and strategy                   | [Markus Schmidberger](https://www.linkedin.com/in/schmidberger/) (10k+)                |
 
 ## Data Strategy
@@ -31,6 +31,7 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |--------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Alex Freberg | learn everything about data analytics              | [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) (375k+)                              |
+| Jess Ramos | learn about SQL and analytics                        | [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) (227k+)                               |
 
 ## Data Engineering
 
@@ -38,8 +39,14 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 |-------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Zach Wilson | everything to improve your Data Engineering skills | [Zach Wilson](https://www.linkedin.com/in/eczachly) (445k+)                                    |
 
+## Data Architecture
+
+| Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
+|-------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Joe Reis    | a lot about fundamentals in data engineering and a lot about data architecture | [Joe Reis](https://www.linkedin.com/in/josephreis/) (445k+)     |
+
 ## Data Science & AI
-(I assume we are going to split up the categorie soon)
+(I assume we are going to split up the categories soon)
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|
@@ -51,7 +58,8 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |---------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Elizabeth Fernandes | data ethic, data governance, data literacy           | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) (12k+)                                    |
+| Ole Olesen-Bagneux  | meta data management, enterprise data management     | [Ole Olesen-Bagneux ](https://www.linkedin.com/in/ole-olesen-bagneux/) (13k+)                  |      
+| Elizabeth Fernandes | data ethic, data governance, data literacy           | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) (12k+)            |                           |
 
 
 (pull requests are welcome)
