@@ -39,6 +39,8 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 |-------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Zach Wilson | everything to improve your Data Engineering skills | [Zach Wilson](https://www.linkedin.com/in/eczachly) (445k+)                                    |
 
+I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engineering Creators](https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file#social-media-accounts). I added some creators to other categories ;-)
+
 ## Data Architecture
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
