@@ -52,8 +52,9 @@ I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engine
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Armand Ruiz           | a lot about AI engineering and AI trends & news      | [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) (155k+)                         |
-| Gina Acosta Gutiérrez | about data science and data engineering hands-on     | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/ginacostag/) (183k+)                      |
+| Gina Acosta Gutiérrez | about data science and data engineering hands-on     | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/ginacostag/) (183k+)                       |
+| Armand Ruiz           | a lot about AI engineering and AI trends & news      | [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) (155k+)                                |
+| Conor Grennan         | get ready for Gen AI and create value out of it      | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/conorgrennan/) (116k+)  
 
 
 ## Data Governance
