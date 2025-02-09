@@ -54,15 +54,14 @@ I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engine
 |-----------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | Gina Acosta Gutiérrez | about data science and data engineering hands-on     | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/ginacostag/) (183k+)                       |
 | Armand Ruiz           | a lot about AI engineering and AI trends & news      | [Armand Ruiz](https://www.linkedin.com/in/armand-ruiz/) (155k+)                                |
-| Conor Grennan         | get ready for Gen AI and create value out of it      | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/conorgrennan/) (116k+)  
-
+| Conor Grennan         | get ready for Gen AI and create value out of it      | [Gina Acosta Gutiérrez](https://www.linkedin.com/in/conorgrennan/) (116k+)                     |
+| Andreas Horn          | how AI is influencing us and business                | [Andreas Horn](https://www.linkedin.com/in/andreashorn1/) (58k+)                                |
 
 ## Data Governance
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> |
 |---------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|
-| Ole Olesen-Bagneux  | meta data management, enterprise data management     | [Ole Olesen-Bagneux ](https://www.linkedin.com/in/ole-olesen-bagneux/) (13k+)                  |      
-| Elizabeth Fernandes | data ethic, data governance, data literacy           | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) (12k+)            |                           |
-
+| Ole Olesen-Bagneux  | meta data management, enterprise data management     | [Ole Olesen-Bagneux ](https://www.linkedin.com/in/ole-olesen-bagneux/) (13k+)                  |
+| Elizabeth Fernandes | data ethic, data governance, data literacy           | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) (12k)             |
 
 (pull requests are welcome)
