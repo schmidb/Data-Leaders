@@ -22,9 +22,10 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 ## Data Strategy
 
-| Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> | Posting time |
-|-------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|----|
-| Dylan Anderson | all about data strategy | [Dylan Anderson](https://www.linkedin.com/in/dylansjanderson/) (46k+)                                    | |
+| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/>      | Topics         | Follower  | Posting time |
+|------------------------------------------------------------------|----------------------------------------|------|------------------------|
+| [Dylan Anderson](https://www.linkedin.com/in/dylansjanderson/)   | all about data strategy                | 46k+ | daily, 1pm UTC         |
+| [Tiankai Feng](https://www.linkedin.com/in/tiankaifeng/)         | human centered data work and strategy  | 30k+ | daily, mostly 8am UTC  |
 
 ## Data Analytics
 
@@ -48,7 +49,6 @@ I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engine
 | Joe Reis    | a lot about fundamentals in data engineering and a lot about data architecture | [Joe Reis](https://www.linkedin.com/in/josephreis/) (445k+)     | |
 
 ## Data Science & AI
-(I assume we are going to split up the categories soon)
 
 | Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> | Posting time |
 |-----------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------|----|
