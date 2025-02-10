@@ -1,12 +1,14 @@
-# Data Leaders on Social Media
+# Data Leaders on LinkedIn
 
-For now, this repo lists amazing Data Leaders on Social Media.
+For now, this repo lists amazing Data Leaders on LinkedIn.
 
 We need more inspiring data leaders to create more business value out of data.
 
 Following these people will support and accelerate you to become an amazing data leader as well!
 
 Data Leaders on this list have more than 10.000 followers on any social media platform and are grouped by data discipline.
+
+*Pull requests for more data leaders are welcome and will be reviewed.*
 
 ## Data Leadership
 
@@ -22,7 +24,7 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 ## Data Strategy
 
-| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/>      | Topics         | Follower  | Posting time |
+| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/>      | Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
 | [Dylan Anderson](https://www.linkedin.com/in/dylansjanderson/)   | all about data strategy                | 46k+ | daily, 1pm UTC         |
 | [Tiankai Feng](https://www.linkedin.com/in/tiankaifeng/)         | human centered data work and strategy  | 30k+ | daily, mostly 8am UTC  |
@@ -65,4 +67,6 @@ I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engine
 | Ole Olesen-Bagneux  | meta data management, enterprise data management     | [Ole Olesen-Bagneux](https://www.linkedin.com/in/ole-olesen-bagneux/) (13k+)        | |
 | Elizabeth Fernandes | data ethic, data governance, data literacy           | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) (12k)  | |
 
-(pull requests are welcome)
+## Disclaimer
+
+I know and I assume that there are much more amazing data leaders which have less than 10k followers on LinkedIn or are not active on LinkedIn.
