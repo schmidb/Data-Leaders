@@ -24,17 +24,19 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 ## Data Strategy
 
-| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/>      | Topics         | Followers  | Posting time |
+| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/> |Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
 | [Dylan Anderson](https://www.linkedin.com/in/dylansjanderson/)   | all about data strategy                | 46k+ | daily, 1pm UTC         |
 | [Tiankai Feng](https://www.linkedin.com/in/tiankaifeng/)         | human centered data work and strategy  | 30k+ | daily, mostly 8am UTC  |
 
 ## Data Analytics
 
-| Name        | Topics         | <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"/> | Posting time |
-|--------------|----------------------------------------------------|------------------------------------------------------------------------------------------------|----|
-| Alex Freberg | learn everything about data analytics              | [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) (375k+)                              | |
-| Jess Ramos | learn about SQL and analytics                        | [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/) (227k+)                               | |
+| Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/>   | Topics         | Followers | Posting time |
+|-------------------------------------------------------------------|------------------------------------------|-------|--------------------------------|
+| [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)         | learn everything about data analytics    | 375k+ | Mo - Fr, 1pm UTC               |
+| [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/)          | learn about SQL and analytics            | 227k+ | daily, 4pm UTC                 |
+| [Annie Nelson](https://www.linkedin.com/in/annie-nelson-analyst/) | data analytics and Tableau               | 113k+ | 3-5 times per week, 12:30pm UTC|
+| [Andy Kriebel](https://www.linkedin.com/in/andykriebel)           | Tableau tips & tricks                    | 60k+  | daily, 8am UTC                 |
 
 ## Data Engineering
 
