@@ -14,16 +14,16 @@ Data Leaders on this list have more than 10.000 followers on any social media pl
 
 | Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/> |Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
-| [Bernard Marr](https://www.linkedin.com/in/bernardmarr/) | business value of data, AI strategy | 2M+ | |
-| [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/) | decision intelligence, data science leadership | 400k+ | |
-| [Kirk Borne](https://www.linkedin.com/in/kirkdborne/) | data science, big data, and data literacy | 300k+ | |
-| [DJ Patil](https://www.linkedin.com/in/dpatil/) | former U.S. Chief Data Scientist, data leadership | 100k+ | |
+| [Bernard Marr](https://www.linkedin.com/in/bernardmarr/) | business value of data, AI strategy | 1.5M+ | |
+| [Cassie Kozyrkov](https://www.linkedin.com/in/kozyrkov/) | decision intelligence, data science leadership | 600k+ | |
+| [Kirk Borne](https://www.linkedin.com/in/kirkdborne/) | data science, big data, and data literacy | 92k+ | |
+| [DJ Patil](https://www.linkedin.com/in/dpatil/) | former U.S. Chief Data Scientist, data leadership | 745k+ | |
 | [Christina Stathopoulos](https://www.linkedin.com/in/christinastathopoulos) | data & AI evangelization, connect data & business | 90k+ | |
 | [Randy Bean](https://www.linkedin.com/in/randybeannvp/) | data-driven leadership & strategy, mainly for Forbes | 21k+ | |
 | [Jonas Rashedi](https://www.linkedin.com/in/jonasrashedi/) | in GERMAN, all about being a successful data leader | 17k+ | |
-| [Sebastian Hewing](https://www.linkedin.com/in/sebastianhewing/) | creating business impact with data and data foundation | 13k+ | |
+| [Sebastian Hewing](https://www.linkedin.com/in/sebastianhewing/) | creating business impact with data and data foundation | 14k+ | |
 | [Taylor Culver](https://www.linkedin.com/in/taylorculver/) | productivity and impact of data leaders | 10k+ | |
-| [Tris J Burns](https://www.linkedin.com/in/tristanjburns/) | data leadership and data career development | 10k+ | |
+| [Tris J Burns](https://www.linkedin.com/in/tristanjburns/) | data leadership and data career development | 11k+ | |
 | [Markus Schmidberger](https://www.linkedin.com/in/schmidberger/) | authentic data leadership and strategy | 10k+ | |
 
 ## Data Strategy
