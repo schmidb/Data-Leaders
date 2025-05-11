@@ -81,31 +81,28 @@ I am not duplicating work. Zach Wilson is hosting a list of amazing [Data Engine
 
 | Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/> |Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
-| [Charlotte Ledoux](https://www.linkedin.com/in/charlotteledoux/) | data strategy, data & AI governance, data culture | 35k+ | daily, 7:15 UTC |
-| [Nicola Askham](https://www.linkedin.com/in/nicolaaskham/) | data governance coaching and implementation | 20k+ | |
-| [Robert S. Seiner](https://www.linkedin.com/in/robertseiner/) | data governance, data stewardship | 15k+ | |
-| [Ole Olesen-Bagneux](https://www.linkedin.com/in/ole-olesen-bagneux/) | meta data management, enterprise data management | 13k+ | |
+| [Charlotte Ledoux](https://www.linkedin.com/in/charlotteledoux/) | data strategy, data & AI governance, data culture | 38k+ | daily, 7:15 UTC |
+| [Nicola Askham](https://www.linkedin.com/in/nicolaaskham/) | data governance coaching and implementation | 21k+ | |
+| [Ole Olesen-Bagneux](https://www.linkedin.com/in/ole-olesen-bagneux/) | meta data management, enterprise data management | 14k+ | |
 | [Elizabeth Fernandes](https://www.linkedin.com/in/elizabeth-fernandes-data/) | data ethic, data governance, data literacy | 12k+ | |
 
 ## Data Visualization
 
 | Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/> |Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
-| [Cole Nussbaumer Knaflic](https://www.linkedin.com/in/colenussbaumerknaflic/) | storytelling with data, data visualization best practices | 60k+ | |
-| [Alberto Cairo](https://www.linkedin.com/in/albertocairo/) | information visualization, visual journalism | 30k+ | |
-| [David McCandless](https://www.linkedin.com/in/davidmccandless/) | information is beautiful, data visualization | 25k+ | |
-| [Mico Yuk](https://www.linkedin.com/in/micoyuk/) | BI dashboard design, data storytelling | 20k+ | |
-| [Nadieh Bremer](https://www.linkedin.com/in/nadiehbremer/) | creative data visualization, artistic data representation | 15k+ | |
+| [Cole Nussbaumer Knaflic](https://www.linkedin.com/in/colenussbaumer/) | storytelling with data, data visualization best practices | 30k+ | |
+| [Alberto Cairo](https://www.linkedin.com/in/albertocairo/) | information visualization, visual journalism | 11k+ | |
+| [Mico Yuk](https://www.linkedin.com/in/micoyuk/) | BI dashboard design, data storytelling | 21k+ | |
+| [Nadieh Bremer](https://www.linkedin.com/in/nbremer/) | creative data visualization, artistic data representation | 13k+ | |
 
 ## Data Ethics & Privacy
 
 | Name + <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30" style="display: inline-block; vertical-align: middle;"/> |Topics         | Followers  | Posting time |
 |------------------------------------------------------------------|----------------------------------------|------|------------------------|
-| [Tristan Harris](https://www.linkedin.com/in/tristanharris/) | ethical technology design, digital well-being | 100k+ | |
-| [Cathy O'Neil](https://www.linkedin.com/in/cathy-o-neil-3914048/) | algorithmic bias, ethical AI, author of "Weapons of Math Destruction" | 40k+ | |
+| [Tristan Harris](https://www.linkedin.com/in/tristanharris/) | ethical technology design, digital well-being | 50k+ | |
 | [Rumman Chowdhury](https://www.linkedin.com/in/rumman/) | responsible AI, algorithmic ethics | 30k+ | |
-| [Renée Cummings](https://www.linkedin.com/in/reneecummings/) | AI ethics, data justice, algorithmic bias | 20k+ | |
-| [Virginia Dignum](https://www.linkedin.com/in/virginiadignum/) | ethical AI, AI governance frameworks | 15k+ | |
+| [Renée Cummings](https://www.linkedin.com/in/ren%C3%A9ecummings/) | AI ethics, data justice, algorithmic bias | 14k+ | |
+| [Virginia Dignum](https://www.linkedin.com/in/vdignum/) | ethical AI, AI governance frameworks | 17k+ | |
 
 ## Disclaimer
 
